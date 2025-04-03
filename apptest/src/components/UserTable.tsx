@@ -27,7 +27,7 @@ import {
 import { Tooltip, TooltipContent, TooltipProvider, TooltipTrigger } from "./ui/tooltip";
 import { Checkbox } from "./ui/checkbox";
 import { Button } from "./ui/button";
-import { Settings, Loader2, Pencil, Trash, X } from "lucide-react";
+import { Settings, Loader2, Pencil, Trash } from "lucide-react";
 import {
   Dialog,
   DialogContent,
